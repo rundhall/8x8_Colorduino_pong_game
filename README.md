@@ -1,2 +1,4 @@
 # 8x8_Colorduino_pong_game
 Pong game for Colorduino
+This is the code for this instruction: https://youtu.be/v_GvM-yTKtY 
+In this instruction I will show you how I built a pong game, using an 8 x 8 RGB LED matrix board module. This module is called Colorduino. It has an onboard microcontroller and an interface to connect to other Colorduino boards. It has the capability of handling 64 pcs color LEDs. The board can be controlled with Arduino code. I created two controller each controller has two buttons. This game can be played by two players. The goal is to prevent the ball to reach the wall on your side. There is a 3 LEDs width platform which can bounce back the ball to your opponent. My concept was to make it as simple as possible. The whole building process takes about 1 hour (the crocheting for the controllers are not counted in). 
